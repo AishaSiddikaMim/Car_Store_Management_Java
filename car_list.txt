@@ -1,0 +1,6 @@
+NS1,Nissan Versa,Sedan,3000000,4
+FC1,Ford Mustang,Coupe,4500000,4
+PS1,Porsche 911,Sports,4380000,3
+SS1,Subaru Outback,Station wagon,3240000,6
+VH1,Volkswagen Golf,Hatchback,3540000,3
+MC1,Mazda MX-5 Miata,Convertible,4500000,6

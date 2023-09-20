@@ -1,0 +1,2 @@
+PS1,Porsche 911,Sports,4380000,3,2,Approved
+SS1,Subaru Outback,Station wagon,3240000,6,2,Not Approved
